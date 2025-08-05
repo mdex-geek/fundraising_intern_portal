@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/ca4a4a0d-c864-4c5b-9099-74d1e176d2b5
 # 📱 Fundraising Intern Portal
 
 A Flutter mobile application designed for fundraising interns to track their progress, view leaderboards, and stay updated with announcements.
@@ -8,6 +10,10 @@ A Flutter mobile application designed for fundraising interns to track their pro
 - **Login/Sign-Up Screen**: Clean UI with form validation (no backend integration)
 - **Animated transitions** and loading states
 - **Input validation** for email and password fields
+
+
+
+
 
 ### 📊 Dashboard
 - **Personalized welcome section** with intern name and referral code
@@ -83,19 +89,19 @@ lib/
 The app uses static mock data to simulate real functionality:
 
 ### 👤 Current User
-- **Name**: Alex Johnson
-- **Email**: alex.johnson@example.com
-- **Referral Code**: alex2025
+- **Name**: deepanshu
+- **Email**: deepanshu@example.com
+- **Referral Code**: garg2025
 - **Total Raised**: ₹5,000
 - **Donations**: 12
 - **Rank**: #3
 
 ### 🏆 Leaderboard (Top 5)
-1. Sarah Chen - ₹8,500 (25 donations)
-2. Michael Rodriguez - ₹7,200 (20 donations)
-3. Alex Johnson - ₹5,000 (12 donations) [Current User]
-4. Emily Davis - ₹4,800 (15 donations)
-5. James Wilson - ₹3,900 (11 donations)
+1. Sara - ₹8,500 (25 donations)
+2. Manoj - ₹7,200 (20 donations)
+3. deepanshu - ₹5,000 (12 donations) [Current User]
+4. rahul - ₹4,800 (15 donations)
+5. imly - ₹3,900 (11 donations)
 
 ### 🎖️ Achievements System
 - **Bronze Badge**: Unlocked (5+ donations)
@@ -115,7 +121,7 @@ The app uses static mock data to simulate real functionality:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/mdex-geek/fundraising_intern_portal.git
    cd fundraising_intern_portal
    ```
 
@@ -182,5 +188,6 @@ The app includes:
 - 📢 **Announcements**: Categorized news with rich content
 
 ---
+
 
 **Built with ❤️ using Flutter**
